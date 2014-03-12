@@ -1,9 +1,9 @@
 #bootstrap_datetimepicker_railsx
----
+
 bootstrap_datetimepicker_railsx provides the [bootstrap-datetimepicker](http://www.malot.fr/bootstrap-datetimepicker/) stylesheets and javascripts as a Rails engine for use with asset pipeline. This gem is used for Rails4+
 
 ##Installation
----
+
 
 Add this to your Gemfile:
 
@@ -12,7 +12,7 @@ Add this to your Gemfile:
 and run `bundle install`
 
 ##Usage
----
+
 
 bootstrap_datetimepicker_railsx depends on `gem 'bootstrap-sass'`,so you should add `bootstrap-sass` to your Gemfile firstly
 
@@ -32,7 +32,6 @@ In your `application.js`,include the js file:
 		
 		
 ##License
----
 
 MIT License
 		
