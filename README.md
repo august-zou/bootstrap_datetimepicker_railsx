@@ -7,7 +7,7 @@ bootstrap_datetimepicker_railsx provides the [bootstrap-datetimepicker](http://w
 
 Add this to your Gemfile:
 
-		gem "bootstrap_datetimepicker_railsx"
+		gem "bootstrap_datetimepicker_railsx",:git =>"https://github.com/august-zou/bootstrap_datetimepicker_railsx.git:git"
 
 and run `bundle install`
 
